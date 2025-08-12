@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-blacky: #000000;
+  --color-greyi: #212121;
+  --color-bermuda: #78dcca;
+}
+
+@import "flowbite/src/themes/default";
+@plugin "flowbite/plugin";
+@source "../node_modules/flowbite";
