@@ -67,6 +67,9 @@
     -webkit-text-decoration: inherit;
     text-decoration: inherit;
   }
+  body {
+    padding=top: 64px;
+  }
   b, strong {
     font-weight: bolder;
   }
